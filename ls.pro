@@ -1,4 +1,4 @@
-pro dir	 
+pro ls	 
   spawn, "ls "
 end
 
