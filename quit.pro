@@ -1,0 +1,3 @@
+pro quit
+  exit
+end
